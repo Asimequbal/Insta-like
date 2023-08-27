@@ -1,0 +1,52 @@
+# Query: fs-5
+# ContextLines: 1
+
+14 results - 1 file
+
+index.html:
+  28                      <div class="overflow-auto pt-4 nav-scroll">
+  29:                         <a href="" class="w-100 fs-5 d-block text-white  px-4 py-2 rounded-5 static-nav-hover">
+  30                              <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-house pb-1" style="color: #ffffff;"></i> Dashboard</span>
+
+  33                              <a class="text-label-nav fw-bold px-4 py-2">Communication</a>
+  34:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  35                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-message" style="color: #ffffff;"></i> Message</span>
+  36                              </a>
+  37:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  38                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-phone" style="color: #ffffff;"></i>Call log</span>
+
+  43                              <a class="text-label-nav fw-bold px-4 py-2">Customers</a>
+  44:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  45                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-users" style="color: #ffffff;"></i>Customers</span>
+  46                              </a>
+  47:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  48                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-faucet-drip" style="color: #ffffff;"></i>Pipeline</span>
+  49                              </a>
+  50:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  51                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-address-book" style="color: #ffffff;"></i>Lists</span>
+  52                              </a>
+  53:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  54                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-note-sticky" style="color: #ffffff;"></i>Notes & Task</span>
+
+  59                              <a class="text-label-nav fw-bold px-4 py-2">Calendar</a>
+  60:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  61                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-message" style="color: #ffffff;"></i> Calendar</span>
+  62                              </a>
+  63:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  64                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-phone" style="color: #ffffff;"></i>Appointments Type</span>
+
+  69                              <a class="text-label-nav fw-bold px-4 py-2">Marketing</a>
+  70:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  71                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-forward" ></i>Campaign</span>
+  72                              </a>
+  73:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  74                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-clipboard"  style="color: #ffffff;"></i>Forms</span>
+  75                              </a>
+  76:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  77                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-filter"style="color: #ffffff;"></i>Funnels</span>
+  78                              </a>
+  79:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  80                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-bolt" style="color: #ffffff;"></i>Triggers</span>
+  81                              </a>
+  82:                             <a href="" class="w-100 fs-5  text-white px-4 py-2 rounded-5 static-nav-hover">
+  83                                  <span class="d-inline-flex align-items-center gap-4"><i class="fa-solid fa-video" style="color: #ffffff;"></i>Videos</span>
